@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IT20251178", "IT20251178\IT20251178.dtproj", "{45384A72-1564-4521-A52A-BFA89FB96489}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IT19058160", "..\..\..\Downloads\DWBI-Assignment01-IT19058160\DWBI-Assignment01-IT19058160\ETL\IT19058160\IT19058160.dtproj", "{31172D4F-4008-4525-90C2-2A96E31E81D7}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "testAS", "..\..\..\Downloads\DWBI-Assignment02-IT19058160\DWBI-Assignment02-IT19058160\Cube\testAS\testAS\testAS.dwproj", "{27882535-9B96-4B36-8C10-2FE7CC5F8B8E}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "project", "..\..\..\Downloads\DWBI-Assignment01-IT19058160\DWBI-Assignment01-IT19058160\ETL\IT19058160\project\project.dtproj", "{09115D33-B47E-4CCF-9A4D-4777C33EECD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45384A72-1564-4521-A52A-BFA89FB96489}.Development|Default.ActiveCfg = Development
+		{45384A72-1564-4521-A52A-BFA89FB96489}.Development|Default.Build.0 = Development
+		{31172D4F-4008-4525-90C2-2A96E31E81D7}.Development|Default.ActiveCfg = Development
+		{31172D4F-4008-4525-90C2-2A96E31E81D7}.Development|Default.Build.0 = Development
+		{27882535-9B96-4B36-8C10-2FE7CC5F8B8E}.Development|Default.ActiveCfg = Development
+		{27882535-9B96-4B36-8C10-2FE7CC5F8B8E}.Development|Default.Build.0 = Development
+		{27882535-9B96-4B36-8C10-2FE7CC5F8B8E}.Development|Default.Deploy.0 = Development
+		{09115D33-B47E-4CCF-9A4D-4777C33EECD1}.Development|Default.ActiveCfg = Development
+		{09115D33-B47E-4CCF-9A4D-4777C33EECD1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FFED142-5608-4137-93F2-3F4EB4A8E8D8}
+	EndGlobalSection
+EndGlobal
